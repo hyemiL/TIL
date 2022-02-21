@@ -5,7 +5,8 @@
   - <a href="https://github.com/hyemiL/TIL/blob/main/html/semanticTag.md">Semantic Tag</a>
 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
-- <a href="https://github.com/hyemiL/TIL/blob/main/css/Flexbox.md">Flexbox_container</a>
+- <a href="https://github.com/hyemiL/TIL/blob/main/css/Flexbox_container.md">Flexbox_container</a>
+- <a href="https://github.com/hyemiL/TIL/blob/main/css/Flexbox_items.md">Flexbox_items</a>
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
 
