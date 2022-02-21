@@ -1,4 +1,4 @@
-# Flexbox
+# Flexbox_container
 
 ### Flexbox model을 사용하려면 먼저 flex container가 있어야 한다!  
 
