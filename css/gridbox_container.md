@@ -114,8 +114,19 @@ Grid container에 grid items를 배치할 때 line number를 참조할 수 있�
 }
 ```
 처럼 설정할 수 있음.
-<img src="https://user-images.githubusercontent.com/89233243/155156608-58564de5-aa57-4276-95ee-053a3eafcce8.png">
+
+
+<img src="https://user-images.githubusercontent.com/89233243/155156608-58564de5-aa57-4276-95ee-053a3eafcce8.png">  
 이렇게 1번 item이 1번 컬럼 라인부터 3번 컬럼 라인에 걸쳐 생성됨.
 
 반대로 row line 1부터 3까지 배치할 경우
+```
+.item1 {
+  grid-row-start: 1;
+  grid-row-end: 3;
+}
+```
 <img src="https://user-images.githubusercontent.com/89233243/155157246-0dba4685-93f5-4839-8f0f-b84d2b153f72.png">
+처럼 레이아웃을 짤 수 있음.
+
+출처 : https://www.w3schools.com/css/css_grid.asp
